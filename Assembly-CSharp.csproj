@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets\Cube.cs" />
     <Compile Include="Assets\GameManager.cs" />
+    <Compile Include="Assets\Linq.cs" />
     <Compile Include="Assets\Main.cs" />
     <Compile Include="Assets\Player.cs" />
     <Compile Include="Assets\Sphere.cs" />
